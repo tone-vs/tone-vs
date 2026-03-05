@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/{tone-vs}/{tone-vs}/tone-vs/main/github_banner.webp" alt="coder meme">
+<img src="https://github.com/{tone-vs}/{tone-vs}/tone-vs/main/github_banner.jpg" alt="coder meme">
 
 
 <!--
