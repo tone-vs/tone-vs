@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hi there,  I'm Tone 👋
 
-<img src="https://github.com/{tone-vs}/{tone-vs}/tone-vs/main/github_banner.jpg" alt="coder meme">
+### Master’s student in Computational Social Science with a background in Political Science.  
+### Using R for statistical analysis, modeling, and visualization in social science research.
 
-
+### Tools: R, statistical modeling, visualization with ggplot, 
+### Fields: Computational Social Science, Political Science
 <!--
 **tone-vs/tone-vs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
